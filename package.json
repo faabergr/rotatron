@@ -1,0 +1,14 @@
+{
+  "name": "rotatron",
+  "version": "1.0.0",
+  "description": "A bot that manages a list of rota and notifies users when it's their turn",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Faaberg",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.0"
+  }
+}
